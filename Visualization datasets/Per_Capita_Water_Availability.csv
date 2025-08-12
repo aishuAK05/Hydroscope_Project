@@ -1,0 +1,735 @@
+State,District,Value 
+Arunachal Pradesh,Lower Dibang Valley,No Stress
+Tamil Nadu,Kanyakumari,No Stress 
+Tamil Nadu,Tiruvarur,Scarcity 
+Jharkhand,Sahibganj,Scarcity
+Madhya Pradesh,Niwari,Scarcity 
+Uttar Pradesh,Jalaun,Scarcity
+Bihar,Munger,Scarcity
+Manipur,Senapati,No Stress 
+Uttar Pradesh,Ghaziabad,Scarcity 
+West Bengal,Alipurduar,No Stress 
+Delhi,North Delhi,Scarcity
+Chhattisgarh,Bastar,Stress 
+Uttar Pradesh,Allahabad,Scarcity 
+Tripura,North Tripura,No Stress 
+Bihar,Saran,Scarcity
+Nagaland,Mon,No Stress
+Jammu and Kashmir,Kishtwar,Scarcity
+Uttar Pradesh,Kanpur Nagar,Scarcity 
+Odisha,Nayagarh,Stress
+Tamil Nadu,Thoothukudi,Absolute scarcity 
+Himachal Pradesh,Bilaspur,Scarcity
+Andhra Pradesh,Anantapur,Scarcity 
+Karnataka,Mandya,Scarcity
+Bihar,Saharsa,Scarcity
+Himachal Pradesh,Solan,Scarcity 
+Manipur,Kamjong,No Stress
+Bihar,Aurangabad,Scarcity
+Kerala,Pathanamthitta,No Stress 
+Madhya Pradesh,Indore,Scarcity 
+Tripura,Khowai,No Stress 
+Tamil Nadu,Madurai,Absolute scarcity
+Rajasthan,Tonk,Scarcity
+Tamil Nadu,Ariyalur,Scarcity 
+Jharkhand,Deoghar,Scarcity 
+Karnataka,Tumkur,Scarcity 
+Gujarat,Panchmahal,Scarcity
+Uttar Pradesh,Ambedkar Nagar,Scarcity
+Meghalaya,Ri Bhoi,No Stress
+Uttar Pradesh,Moradabad,Scarcity 
+Chhattisgarh,Balrampur,Scarcity 
+Madhya Pradesh,Rewa,Scarcity 
+Rajasthan,Karauli,Scarcity 
+Rajasthan,Pratapgarh,Scarcity
+Assam,Cachar,No Stress 
+Tamil Nadu,Ramanathapuram,Absolute scarcity 
+Uttarakhand,Pauri Garhwal,Scarcity 
+Nagaland,Phek,No Stress
+Assam,Sivasagar,No Stress 
+Bihar,Bhojpur,Scarcity 
+Telangana,Peddapalli,Stress
+Bihar,West Champaran,Scarcity
+Manipur,Imphal West,No Stress 
+Sikkim,East Sikkim,No Stress
+Gujarat,Botad,Scarcity
+Assam,South Salmara Mankachar,No Stress 
+Telangana,Warangal Rural,Stress
+Rajasthan,Nagaur,Scarcity
+Madhya Pradesh,Sheopur,Scarcity 
+Assam,Kamrup,No Stress 
+Uttar Pradesh,Siddharth Nagar,Scarcity
+Haryana,Jhajjar,Scarcity 
+Bihar,Siwan,Scarcity 
+Meghalaya,South West Khasi Hills,No Stress
+Bihar,Banka,Scarcity 
+Chhattisgarh,Mahasamund,Stress 
+Haryana,Charkhi Dadri,Scarcity
+Gujarat,Valsad,No Stress
+Arunachal Pradesh,East Kameng,No Stress
+Madhya Pradesh,Sidhi,Scarcity
+Maharashtra,Palghar,No Stress
+Mizoram,Serchhip,No Stress 
+Odisha,Cuttack,Stress 
+Chhattisgarh,Raipur,Stress
+Rajasthan,Bhilwara,Scarcity 
+Tamil Nadu,Viluppuram,Absolute scarcity
+Tripura,Unokoti,No Stress
+Uttar Pradesh,Basti,Scarcity 
+Haryana,Mahendragarh,Scarcity 
+Gujarat,Dohad,Scarcity
+Assam,Tinsukia,No Stress
+Kerala,Kottayam,No Stress 
+Gujarat,Sabarkantha,Scarcity
+Uttar Pradesh,Chandauli,Scarcity
+Uttar Pradesh,Hamirpur,Scarcity
+West Bengal,Nadia,Scarcity 
+Odisha,Boudh,Stress
+Jharkhand,Saraikela Kharsawan,Scarcity 
+Jammu and Kashmir,Udhampur,Scarcity 
+Punjab,Fazilka,Scarcity 
+Rajasthan,Jhalawar,Scarcity
+Karnataka,Chikmagalur,Scarcity 
+Madhya Pradesh,Barwani,No Stress 
+Telangana,Nalgonda,Scarcity 
+Jammu and Kashmir,Ramban,Scarcity 
+Nagaland,Zunheboto,No Stress
+Kerala,Malappuram,No Stress
+Manipur,Bishnupur,No Stress
+Madhya Pradesh,Jhabua,Scarcity 
+Madhya Pradesh,Chhindwara,Stress
+Jammu and Kashmir,Bandipora,Scarcity 
+Chhattisgarh,Durg,Stress 
+Jharkhand,West Singhbhum,No Stress
+Madhya Pradesh,Narsinghpur,No Stress
+Punjab,Nawanshahr/Sbs Nagar,Scarcity
+Rajasthan,Sri Ganganagar,Scarcity 
+Maharashtra,Hingoli,Stress 
+Punjab,Bathinda,Scarcity
+Bihar,Kaimur,Scarcity 
+Uttar Pradesh,Hapur,Scarcity 
+Delhi,East Delhi,Scarcity 
+Uttar Pradesh,Chitrakoot,Scarcity
+Gujarat,Surendranagar,Scarcity 
+Madhya Pradesh,Raisen,No Stress 
+Sikkim,South Sikkim,No Stress 
+West Bengal,Purba Bardhaman,Scarcity
+Telangana,Medak,Stress
+Madhya Pradesh,Mandla,No Stress 
+Uttar Pradesh,Lakhimpur Kheri,Scarcity 
+Maharashtra,Sangli,Scarcity 
+Haryana,Gurgaon/Gururgram,Scarcity 
+Karnataka,Bellary,Scarcity
+Tamil Nadu,Dindigul,Scarcity
+Maharashtra,Osmanabad,Scarcity
+Karnataka,Belgaum,Scarcity 
+Madhya Pradesh,Katni,Scarcity
+Punjab,Sas Nagar/Mohali,Scarcity 
+Tripura,Sipahijala,No Stress 
+Uttar Pradesh,Agra,Scarcity
+Chhattisgarh,Korba,Stress 
+Uttar Pradesh,Rampur,Scarcity 
+Bihar,Jehanabad,Scarcity
+Goa,South Goa,No Stress
+Maharashtra,Jalna,Stress 
+Bihar,Araria,Scarcity 
+Telangana,Jagtial,Stress
+Bihar,Rohtas,Scarcity
+Odisha,Sundargarh,No Stress 
+Uttar Pradesh,Baghpat,Scarcity
+Uttarakhand,Nainital,Scarcity
+Karnataka,Raichur,Scarcity 
+Madhya Pradesh,Harda,No Stress
+Jammu and Kashmir,Muzaffarabad,Scarcity 
+Assam,Karbi Anglong,No Stress
+Madhya Pradesh,Morena,Scarcity 
+Uttar Pradesh,Bareilly,Scarcity 
+Uttar Pradesh,Faizabad,Scarcity 
+West Bengal,Paschim Medinipur,Scarcity 
+Arunachal Pradesh,Upper Subansiri,No Stress 
+Tamil Nadu,Erode,Scarcity
+West Bengal,Purulia,Scarcity 
+Arunachal Pradesh,Lower Subansiri,No Stress 
+Madhya Pradesh,Hoshangabad,No Stress
+Rajasthan,Pali,Scarcity
+Uttar Pradesh,Shamli,Scarcity 
+Uttar Pradesh,Pratapgarh,Scarcity 
+Uttar Pradesh,Sitapur,Scarcity 
+Chhattisgarh,Gariyaband,Stress 
+West Bengal,Hooghly,Scarcity 
+Uttar Pradesh,Maharajganj,Scarcity
+Arunachal Pradesh,Dibang Valley,No Stress
+Punjab,Jalandhar,Scarcity 
+Manipur,Pherzawl,No Stress
+Andhra Pradesh,Y.S.R. (Kadapa),Scarcity
+Assam,Barpeta,No Stress 
+Jammu and Kashmir,Srinagar,Scarcity 
+Manipur,Jiribam,No Stress
+Tamil Nadu,Salem,Scarcity 
+Uttar Pradesh,Auraiya,Scarcity 
+Telangana,Nagarkurnool,Scarcity
+Uttar Pradesh,Firozabad,Scarcity
+Uttar Pradesh,Mahoba,Scarcity
+Gujarat,Porbandar,Scarcity
+Karnataka,Ramanagara,Scarcity 
+Uttar Pradesh,Bijnor,Scarcity
+Rajasthan,Bharatpur,Scarcity
+Mizoram,Lunglei,No Stress
+Rajasthan,Churu,Scarcity
+Delhi,New Delhi,Scarcity 
+Kerala,Kannur,No Stress
+Uttar Pradesh,Lucknow,Scarcity
+Nagaland,Wokha,No Stress
+Odisha,Bargarh,Stress
+Gujarat,Narmada,No Stress
+Rajasthan,Jodhpur,Scarcity
+Gujarat,Ahmedabad,Scarcity 
+Tamil Nadu,Kallakurichi,Scarcity
+Uttar Pradesh,Hathras,Scarcity 
+Uttarakhand,Uttarkashi,Scarcity
+Bihar,Muzaffarpur,Scarcity 
+Telangana,Ranga Reddy,Scarcity
+Bihar,Purnia,Scarcity 
+Jharkhand,Khunti,No Stress 
+Bihar,Samastipur,Scarcity 
+Uttar Pradesh,Saharanpur,Scarcity 
+West Bengal,Jalpaiguri,Scarcity
+Andhra Pradesh,Kurnool,Scarcity
+Karnataka,Uttara Kannada,No Stress 
+Chhattisgarh,Dhamtari,Stress 
+Arunachal Pradesh,Kurung Kumey,No Stress 
+Haryana,Panchkula,Scarcity 
+Kerala,Kozhikode,No Stress
+Maharashtra,Nashik,Stress
+Karnataka,Hassan,No Stress
+Punjab,Ludhiana,Scarcity 
+Telangana,Karimnagar,Stress 
+Andhra Pradesh,Prakasam,Scarcity 
+Bihar,East Champaran,Scarcity 
+Telangana,Jangaon,Stress 
+Telangana,Jayashankar Bhupalpally,Stress 
+Tamil Nadu,Mayiladuthurai,Scarcity 
+Maharashtra,Thane,No Stress
+Rajasthan,Bikaner,Scarcity 
+Gujarat,Amreli,Scarcity
+Karnataka,Bangalore Urban,Scarcity
+Rajasthan,Banswara,Scarcity 
+Assam,Darrang,No Stress
+Uttar Pradesh,Farrukhabad,Scarcity
+Andhra Pradesh,Vizianagaram,Scarcity 
+Gujarat,Rajkot,Scarcity
+Assam,Karimganj,No Stress
+Arunachal Pradesh,West Kameng,No Stress 
+Daman and Diu,Diu,Scarcity 
+Himachal Pradesh,Lahul & Spiti,Scarcity
+Madhya Pradesh,Shahdol,Scarcity 
+Mizoram,Kolasib,No Stress 
+Nagaland,Dimapur,No Stress
+Assam,Baksa,No Stress
+Odisha,Dhenkanal,No Stress
+Odisha,Jajapur,No Stress
+Tamil Nadu,Nagapattinam,Scarcity 
+Gujarat,Devbhumi Dwarka,Scarcity
+Jharkhand,Godda,Scarcity
+Madhya Pradesh,Singrauli,Scarcity 
+Tamil Nadu,Nilgiris,Scarcity 
+Uttar Pradesh,Ghazipur,Scarcity 
+Madhya Pradesh,Betul,Stress 
+Punjab,Fatehgarh Sahib,Scarcity
+Telangana,Suryapet,Scarcity 
+Madhya Pradesh,Gwalior,Scarcity
+Chhattisgarh,Mungeli,Stress 
+Manipur,Kangpokpi,No Stress
+Chhattisgarh,Baloda Bazar,Stress 
+Bihar,Madhepura,Scarcity
+Delhi,North-East Delhi,Scarcity 
+Uttar Pradesh,Jaunpur,Scarcity
+Bihar,Bhagalpur,Scarcity 
+Uttar Pradesh,Sant Kabir Nagar,Scarcity 
+Mizoram,Mamit,No Stress
+Gujarat,Kheda,Scarcity
+Madhya Pradesh,Anuppur,Scarcity
+West Bengal,Paschim Bardhaman,Scarcity 
+Punjab,Hoshiarpur,Scarcity 
+Madhya Pradesh,Balaghat,Stress
+Telangana,Khammam,Stress
+Uttar Pradesh,Barabanki,Scarcity 
+Gujarat,Banaskantha,Scarcity 
+Jharkhand,Bokaro,Scarcity 
+Odisha,Mayurbhanj,Scarcity 
+Punjab,Kapurthala,Scarcity
+Haryana,Fatehabad,Scarcity 
+Tamil Nadu,Tiruchirappalli,Scarcity 
+Karnataka,Dakshina Kannada,Scarcity 
+Odisha,Angul,No Stress
+Chhattisgarh,Bilaspur,Stress 
+Himachal Pradesh,Chamba,Scarcity 
+Bihar,Vaishali,Scarcity 
+Himachal Pradesh,Kullu,Scarcity 
+Uttar Pradesh,Ballia,Scarcity 
+Jammu and Kashmir,Mirpur,Scarcity
+Odisha,Nuapada,Stress
+Uttar Pradesh,Jhansi,Scarcity
+Madhya Pradesh,Datia,Scarcity 
+Arunachal Pradesh,Shi Yomi,No Stress
+Bihar,Supaul,Scarcity 
+Sikkim,North Sikkim,No Stress
+Tamil Nadu,Perambalur,Absolute scarcity
+Telangana,Adilabad,Stress 
+Odisha,Khordha,Stress 
+Arunachal Pradesh,Namsai,No Stress 
+Tamil Nadu,Vellore,Absolute scarcity
+Jammu and Kashmir,Rajauri,Scarcity 
+Uttar Pradesh,Pilibhit,Scarcity
+Uttar Pradesh,Kanpur Dehat,Scarcity 
+Tamil Nadu,Tenkasi,Scarcity
+Gujarat,Bhavnagar,Scarcity
+Uttar Pradesh,Meerut,Scarcity
+Bihar,Kishanganj,Scarcity
+Jharkhand,Pakur,Scarcity 
+Arunachal Pradesh,East Siang,No Stress
+Madhya Pradesh,Dindori,No Stress 
+Jharkhand,Gumla,No Stress
+Tamil Nadu,Dharmapuri,Scarcity
+Chandigarh,Chandigarh,Scarcity 
+Maharashtra,Solapur,Scarcity
+Uttar Pradesh,Kannauj,Scarcity
+Tamil Nadu,Cuddalore,Absolute scarcity 
+Jharkhand,Garhwa,Scarcity
+Uttar Pradesh,Unnao,Scarcity
+Assam,Biswanath,No Stress
+Jammu and Kashmir,Budgam,Scarcity 
+Odisha,Subarnapur,Stress
+Maharashtra,Washim,Stress
+Rajasthan,Rajsamand,Scarcity
+Tamil Nadu,Chengalpattu,Scarcity
+Uttar Pradesh,Kasganj,Scarcity 
+Bihar,Madhubani,Scarcity 
+Karnataka,Bidar,Stress
+Odisha,Koraput,Stress 
+Manipur,Ukhrul,No Stress 
+Maharashtra,Raigad,No Stress
+Rajasthan,Jhunjhunu,Scarcity 
+Tamil Nadu,Virudhunagar,Absolute scarcity 
+Jharkhand,Palamu,Scarcity 
+Haryana,Bhiwani,Scarcity
+Madhya Pradesh,Sagar,Scarcity
+Uttar Pradesh,Gautam Buddha Nagar,Scarcity 
+Tamil Nadu,Chennai,Absolute scarcity 
+Assam,Udalguri,No Stress 
+Madhya Pradesh,Mandsaur,Scarcity
+Madhya Pradesh,Sehore,No Stress 
+Gujarat,Tapi,No Stress 
+Maharashtra,Nanded,Stress 
+Madhya Pradesh,Bhind,Scarcity 
+Bihar,Nawada,Scarcity
+Assam,Nagaon,No Stress 
+Telangana,Mahabubabad,Scarcity 
+Gujarat,Aravalli,Scarcity 
+Jammu and Kashmir,Reasi,Scarcity 
+Andhra Pradesh,Guntur,Scarcity
+Bihar,Patna,Scarcity 
+Jharkhand,Latehar,Scarcity 
+Haryana,Mewat,Scarcity 
+Kerala,Ernakulam,No Stress 
+Kerala,Wayanad,Scarcity 
+Uttar Pradesh,Rae Bareli,Scarcity
+Jharkhand,Hazaribagh,Scarcity
+Telangana,Mahabubnagar,Scarcity 
+Haryana,Rohtak,Scarcity 
+Rajasthan,Alwar,Scarcity
+Rajasthan,Kota,Scarcity 
+Karnataka,Kolar,Absolute scarcity
+Manipur,Thoubal,No Stress
+Assam,Charaideo,No Stress
+Nagaland,Longleng,No Stress
+Assam,Kokrajhar,No Stress 
+Arunachal Pradesh,Changlang,No Stress 
+Tamil Nadu,Sivaganga,Absolute scarcity
+Uttarakhand,Tehri Garhwal,Scarcity 
+Jammu and Kashmir,Kulgam,Scarcity
+Maharashtra,Wardha,Stress 
+Uttar Pradesh,Sultanpur,Scarcity 
+Jammu and Kashmir,Jammu,Scarcity 
+Assam,Dhemaji,No Stress
+Ladakh,Kargil,Scarcity
+Jharkhand,East Singhbhum,No Stress
+Karnataka,Shimoga,Scarcity 
+Maharashtra,Pune,Scarcity
+Madhya Pradesh,Alirajpur,No Stress
+Chhattisgarh,Kawardha/ Kabirdham,Stress
+Madhya Pradesh,Chhatarpur,Scarcity 
+Kerala,Alappuzha,No Stress
+Manipur,Noney,No Stress
+Meghalaya,East Garo Hills,No Stress 
+Meghalaya,West Khasi Hills,No Stress
+Bihar,Jamui,Scarcity 
+Assam,Dibrugarh,No Stress 
+Assam,Kamrup (Metro),No Stress
+Bihar,Darbhanga,Scarcity 
+Karnataka,Chitradurga,Scarcity
+Andhra Pradesh,Krishna,Scarcity 
+Meghalaya,West Garo Hills,No Stress 
+Jammu and Kashmir,Baramulla,Scarcity 
+Nagaland,Mokokchung,No Stress
+Rajasthan,Barmer,Scarcity 
+Bihar,Sheohar,Scarcity
+Madhya Pradesh,Vidisha,Scarcity 
+Maharashtra,Satara,Scarcity
+Assam,Lakhimpur,No Stress 
+Bihar,Khagaria,Scarcity 
+Delhi,Shahdara,Scarcity
+Punjab,Faridkot,Scarcity 
+Rajasthan,Dhaulpur,Scarcity 
+Uttar Pradesh,Fatehpur,Scarcity 
+Bihar,Buxar,Scarcity
+Madhya Pradesh,Damoh,No Stress 
+Chhattisgarh,Raigarh,Stress
+Uttar Pradesh,Etah,Scarcity 
+Bihar,Lakhisarai,Scarcity
+Odisha,Nabarangapur,Stress
+Tamil Nadu,Coimbatore,No Stress
+Tamil Nadu,Tirunelveli,Absolute scarcity
+Rajasthan,Jalore,Scarcity 
+Karnataka,Gadag,Scarcity
+West Bengal,North 24 Parganas,Scarcity
+Uttar Pradesh,Kushinagar,Scarcity 
+Jharkhand,Ramgarh,Scarcity
+Madhya Pradesh,Ashok Nagar,Scarcity 
+Manipur,Kakching,No Stress
+Uttar Pradesh,Varanasi,Scarcity
+Gujarat,Bharuch,No Stress
+West Bengal,Dakshin Dinajpur,Scarcity
+Mizoram,Aizawl,No Stress
+Assam,Dima Hasao,No Stress
+Karnataka,Davangere,Scarcity 
+Delhi,North-West Delhi,Scarcity 
+Maharashtra,Ahmednagar,Stress 
+Maharashtra,Latur,Stress 
+Madhya Pradesh,Shajapur,Scarcity 
+Kerala,Kollam,No Stress
+Bihar,Gopalganj,Scarcity
+Delhi,South Delhi,Scarcity
+Gujarat,Mahisagar,Scarcity 
+Haryana,Palwal,Scarcity
+Meghalaya,South Garo Hills,No Stress
+Odisha,Kendujhar,No Stress 
+Tamil Nadu,Theni,Absolute scarcity 
+Chhattisgarh,Surajpur,Scarcity
+Uttar Pradesh,Azamgarh,Scarcity
+Odisha,Gajapati,Scarcity 
+West Bengal,Bankura,Scarcity
+Bihar,Arwal,Scarcity 
+Chhattisgarh,Kanker (North Bastar),Stress 
+Uttar Pradesh,Deoria,Scarcity
+Arunachal Pradesh,Pakke Kessang,No Stress
+Jammu and Kashmir,Kathua,Scarcity
+Madhya Pradesh,Tikamgarh,Scarcity
+Andhra Pradesh,Nellore,Absolute scarcity
+Assam,Golaghat,No Stress
+Odisha,Malkangiri,Stress
+Arunachal Pradesh,Kra Daadi,No Stress 
+Gujarat,Navsari,No Stress
+Rajasthan,Dungarpur,Scarcity
+Punjab,Tarn Taran,Scarcity 
+Tamil Nadu,Pudukkottai,Absolute scarcity 
+Tripura,Dhalai,No Stress 
+Haryana,Sirsa,Scarcity 
+Gujarat,Anand,Scarcity
+Rajasthan,Hanumangarh,Scarcity
+Haryana,Faridabad,Scarcity
+Andhra Pradesh,Visakhapatnam,Stress 
+Bihar,Sheikhpura,Scarcity 
+Gujarat,Junagadh,Scarcity 
+Jharkhand,Jamtara,Scarcity 
+Arunachal Pradesh,Tirap,No Stress
+Chhattisgarh,Kondagaon,Stress
+Arunachal Pradesh,Tawang,No Stress 
+Jharkhand,Lohardaga,No Stress
+Rajasthan,Jaisalmer,Scarcity
+Punjab,Muktsar,Scarcity
+Bihar,Nalanda,Scarcity
+Tamil Nadu,Namakkal,Scarcity 
+Chhattisgarh,Bijapur,Stress 
+Karnataka,Kodagu,Scarcity
+Telangana,Sangareddy,Stress
+Haryana,Sonipat,Scarcity 
+Gujarat,Gir Somnath,Scarcity 
+Maharashtra,Ratnagiri,No Stress 
+Bihar,Gaya,Scarcity
+Jharkhand,Giridih,Scarcity
+Madhya Pradesh,Jabalpur,No Stress
+Andhra Pradesh,Chittoor,Absolute scarcity 
+Karnataka,Haveri,Scarcity
+Meghalaya,North Garo Hills,No Stress 
+Jammu and Kashmir,Shopian,Scarcity 
+Assam,Hailakandi,No Stress
+Karnataka,Chikballapura,Scarcity 
+Rajasthan,Sirohi,Scarcity 
+Rajasthan,Udaipur,Scarcity 
+Uttar Pradesh,Etawah,Scarcity 
+Karnataka,Mysore,Scarcity 
+Andhra Pradesh,Srikakulam,Scarcity
+West Bengal,Purba Medinipur,Scarcity
+Uttar Pradesh,Muzaffarnagar,Scarcity 
+Odisha,Jharsuguda,Stress
+Telangana,Kamareddy,Stress 
+Telangana,Hyderabad,Scarcity 
+Telangana,Mancherial,Stress 
+Arunachal Pradesh,Kamle,No Stress
+Uttar Pradesh,Sonbhadra,Scarcity 
+Uttarakhand,Dehradun,Scarcity
+Arunachal Pradesh,Siang,No Stress
+Madhya Pradesh,Bhopal,Scarcity
+Uttar Pradesh,Gorakhpur,Scarcity 
+Chhattisgarh,Jashpur,Stress
+Manipur,Chandel,No Stress
+Delhi,West Delhi,Scarcity
+Sikkim,West Sikkim,No Stress 
+Haryana,Ambala,Scarcity 
+Chhattisgarh,Bemetara,Stress
+Punjab,Rupnagar,Scarcity
+West Bengal,Cooch Behar,No Stress
+Madhya Pradesh,Panna,Scarcity 
+Punjab,Sangrur,Scarcity
+Goa,North Goa,No Stress 
+Assam,Chirang,No Stress 
+Maharashtra,Bhandara,Stress 
+Punjab,Ferozepur,Scarcity
+Mizoram,Lawangtlai,No Stress
+Andhra Pradesh,East Godavari,Stress 
+Assam,Dhubri,No Stress
+Rajasthan,Ajmer,Scarcity 
+Rajasthan,Bundi,Scarcity 
+Gujarat,Vadodara,Scarcity
+Punjab,Amritsar,Scarcity
+Madhya Pradesh,Neemuch,Scarcity 
+Madhya Pradesh,Khargone,No Stress
+Kerala,Palakkad,No Stress 
+Jammu and Kashmir,Anantnag,Scarcity 
+Meghalaya,East Jaintia Hills,No Stress 
+Chhattisgarh,Rajnandgaon,Stress
+Maharashtra,Jalgaon,Stress 
+Madhya Pradesh,Guna,Scarcity 
+Punjab,Patiala,Scarcity 
+Telangana,Bhadradri Kothagudem,Stress
+Telangana,Rajanna Sircilla,Stress 
+Punjab,Pathankot,Scarcity
+Tripura,Gomati,No Stress
+Arunachal Pradesh,Lohit,No Stress 
+Tamil Nadu,Tirupathur,Scarcity
+Jammu and Kashmir,Poonch,Scarcity
+Uttar Pradesh,Sant Ravidas Nagar,Scarcity 
+Himachal Pradesh,Mandi,Scarcity 
+Maharashtra,Yavatmal,Stress
+Gujarat,Mahesana,Scarcity
+Manipur,Churachandpur,No Stress
+Jharkhand,Dhanbad,Scarcity
+Nagaland,Kohima,No Stress
+Uttar Pradesh,Bhadohi,Scarcity
+Arunachal Pradesh,West Siang,No Stress 
+Bihar,Begusarai,Scarcity 
+Meghalaya,East Khasi Hills,No Stress 
+Haryana,Nuh,Scarcity 
+Gujarat,Gandhinagar,Scarcity 
+Delhi,South-East Delhi,Scarcity 
+Karnataka,Chamarajanagar,Scarcity
+Kerala,Kasaragod,No Stress 
+Maharashtra,Akola,Stress
+Maharashtra,Dhule,Stress
+Manipur,Tengnoupal,No Stress
+Maharashtra,Beed,Stress 
+Odisha,Kandhamal,Stress
+Rajasthan,Jaipur,Scarcity
+Tamil Nadu,Tiruppur,Scarcity
+Telangana,Vikarabad,Scarcity 
+West Bengal,Birbhum,Scarcity
+Karnataka,Udupi,Scarcity 
+Chhattisgarh,Dantewada,Stress
+Gujarat,Jamnagar,Scarcity
+Jammu and Kashmir,Doda,Scarcity 
+Karnataka,Koppal,Scarcity 
+Jharkhand,Chatra,Scarcity 
+Madhya Pradesh,Ratlam,Scarcity 
+Telangana,Jogulamba Gadwal,Scarcity 
+Chhattisgarh,Sukma,Stress 
+Jammu and Kashmir,Samba,Scarcity 
+Telangana,Nirmal,Stress
+Uttar Pradesh,Hardoi,Scarcity
+Odisha,Kalahandi,Stress 
+West Bengal,Malda,Scarcity 
+Meghalaya,"South West
+Garo Hills",No Stress 
+Assam,Bongaigaon,No Stress 
+West Bengal,Murshidabad,Scarcity
+Uttar Pradesh,Mainpuri,Scarcity
+Assam,Nalbari,No Stress
+Tamil Nadu,Karur,Scarcity
+Rajasthan,Baran,Scarcity
+Odisha,Ganjam,Scarcity
+Telangana,Wanaparthy,Scarcity 
+Jharkhand,Simdega,No Stress 
+Maharashtra,Aurangabad,Stress 
+Manipur,Imphal East,No Stress
+Puducherry,Karaikal,Scarcity
+Uttar Pradesh,Amroha,Scarcity 
+Uttar Pradesh,Bulandshahr,Scarcity 
+Telangana,Yadadri Bhuvangiri,Scarcity 
+Uttarakhand,Pithoragarh,Scarcity
+Uttar Pradesh,Balrampur,Scarcity 
+Bihar,Katihar,Scarcity
+Mizoram,Saiha,No Stress 
+Chhattisgarh,Koriya,Scarcity 
+Karnataka,Gulbarga,Scarcity 
+Assam,Goalpara,No Stress 
+Delhi,Central Delhi,Scarcity 
+Himachal Pradesh,Shimla,Scarcity 
+Maharashtra,Mumbai City,Stress 
+Madhya Pradesh,Khandwa,No Stress
+Punjab,Mansa,Scarcity
+Telangana,Nizamabad,Stress
+Nagaland,Tuensang,No Stress 
+Uttarakhand,Rudraprayag,Scarcity 
+Arunachal Pradesh,Lower Siang,No Stress 
+Assam,Sonitpur,No Stress
+Maharashtra,Nagpur,Stress
+Maharashtra,Kolhapur,Scarcity
+Manipur,Tamenglong,No Stress
+Himachal Pradesh,Kangra,Scarcity
+Rajasthan,Sikar,Scarcity
+Meghalaya,West Jaintia Hills,No Stress 
+Assam,Majuli,No Stress 
+Madhya Pradesh,Rajgarh,Scarcity
+Maharashtra,Amravati,Stress 
+Gujarat,Surat,Stress
+Maharashtra,Parbhani,Stress
+Madhya Pradesh,Satna,Scarcity
+West Bengal,Darjeeling,Scarcity 
+Assam,Morigaon,No Stress 
+Madhya Pradesh,Umaria,Scarcity 
+Jharkhand,Kodarma,Scarcity
+Chhattisgarh,Balod,Stress
+Punjab,Moga,Scarcity
+Nagaland,Kiphire,No Stress
+Himachal Pradesh,Kinnaur,Scarcity 
+Arunachal Pradesh,Longding,No Stress 
+Karnataka,Bijapur,Scarcity
+Karnataka,Yadgir,Scarcity
+Uttar Pradesh,Kaushambi,Scarcity 
+Telangana,Narayanpet,Scarcity 
+Tamil Nadu,Thanjavur,Scarcity 
+Telangana,Medchal-Malkajgiri,Scarcity 
+Tamil Nadu,Krishnagiri,Absolute scarcity
+Odisha,Baleshwar,Scarcity 
+Uttarakhand,Bageshwar,Scarcity 
+Andhra Pradesh,West Godavari,Scarcity
+Jammu and Kashmir,Kupwara,Scarcity 
+Tripura,South Tripura,No Stress 
+Maharashtra,Chandrapur,Stress 
+Madhya Pradesh,Dhar,No Stress 
+Haryana,Kaithal,Scarcity 
+Jharkhand,Dumka,Scarcity 
+Uttar Pradesh,Mirzapur,Scarcity 
+Himachal Pradesh,Sirmaur,Scarcity 
+Himachal Pradesh,Hamirpur,Scarcity
+Gujarat,Dang,No Stress 
+Arunachal Pradesh,Anjaw,No Stress 
+Maharashtra,Buldana,Stress 
+Assam,Hojai,No Stress
+Chhattisgarh,Janjgir-Champa,Stress 
+Haryana,Panipat,Scarcity 
+Maharashtra,Gondia,Stress 
+Maharashtra,Mumbai Suburban,Stress
+Karnataka,Bangalore Rural,Scarcity
+Punjab,Gurdaspur,Scarcity 
+Telangana,Siddipet,Stress
+Madhya Pradesh,Agar Malwa,Scarcity 
+Tamil Nadu,Tiruvallur,Absolute scarcity 
+Telangana,Warangal Urban,Stress 
+Uttar Pradesh,Sambhal,Scarcity 
+Uttar Pradesh,Banda,Scarcity 
+Uttarakhand,Udham Singh Nagar,Scarcity 
+West Bengal,Uttar Dinajpur,Scarcity 
+Maharashtra,Gadchiroli,Stress 
+Assam,Jorhat,No Stress 
+Tamil Nadu,Kancheepuram,Absolute scarcity
+Uttar Pradesh,Budaun,Scarcity 
+Madhya Pradesh,Dewas,No Stress
+Odisha,Deogarh,No Stress 
+Madhya Pradesh,Shivpuri,Scarcity
+Arunachal Pradesh,Papum Pare,No Stress
+West Bengal,Kalimpong,No Stress 
+Kerala,Thiruvananthapuram,No Stress
+Odisha,Puri,Stress
+Odisha,Sambalpur,Stress 
+Haryana,Hisar,Scarcity
+Ladakh,Leh,Scarcity 
+Telangana,Mulugu,Stress
+Odisha,Bhadrak,No Stress
+West Bengal,Howrah,Scarcity 
+Punjab,Barnala,Scarcity
+Uttar Pradesh,Mau,Scarcity 
+Jammu and Kashmir,Ganderbal,Scarcity
+Chhattisgarh,Surguja,Scarcity 
+Maharashtra,Nandurbar,Stress 
+Odisha,Rayagada,Scarcity
+Odisha,Kendrapara,No Stress 
+Uttar Pradesh,Lalitpur,Scarcity
+West Bengal,Kolkata,Scarcity 
+Arunachal Pradesh,Upper Siang,No Stress
+Uttar Pradesh,Bahraich,Scarcity 
+Madhya Pradesh,Burhanpur,Stress 
+Haryana,Rewari,Scarcity
+Rajasthan,Sawai Madhopur,Scarcity
+Uttarakhand,Almora,Scarcity
+Odisha,Balangir,Stress 
+Telangana,Kumuram Bheem,Stress 
+Gujarat,Kachchh,Scarcity
+Kerala,Idukki,No Stress
+Karnataka,Dharwad,No Stress
+Gujarat,Morbi,Scarcity 
+Himachal Pradesh,Una,Scarcity
+Haryana,Jind,Scarcity
+Delhi,South-West Delhi,Scarcity 
+Gujarat,Patan,Scarcity
+Dadra and Nagar Haveli,Dadra and Nagar Haveli,No Stress 
+Nagaland,Peren,No Stress
+Haryana,Karnal,Scarcity
+Maharashtra,Sindhudurg,No Stress
+Puducherry,Puducherry,Absolute scarcity
+Assam,West Karbi Anglong,No Stress
+Puducherry,Yanam,Stress 
+Rajasthan,Dausa,Scarcity
+Madhya Pradesh,Ujjain,Scarcity
+Odisha,Jagatsinghapur,Stress 
+Tamil Nadu,Ranipet,Scarcity 
+Tripura,West Tripura,No Stress
+Gujarat,Chhota Udaipur,No Stress
+Tamil Nadu,Tiruvannamalai,Absolute scarcity 
+Uttar Pradesh,Amethi,Scarcity 
+Bihar,Sitamarhi,Scarcity 
+Uttar Pradesh,Gonda,Scarcity
+Uttarakhand,Chamoli,Scarcity
+Arunachal Pradesh,Lepa Rada,No Stress
+Mizoram,Champhai,No Stress 
+Uttarakhand,Champawat,Scarcity 
+Uttar Pradesh,Shahjahanpur,Scarcity 
+Uttarakhand,Haridwar,Scarcity 
+Kerala,Thrissur,No Stress 
+Uttar Pradesh,Aligarh,Scarcity 
+Chhattisgarh,Narayanpur,Stress 
+Rajasthan,Chittorgarh,Scarcity
+Uttar Pradesh,Mathura,Scarcity 
+Madhya Pradesh,Seoni,Stress 
+West Bengal,South 24 Parganas,Scarcity
+Haryana,Kurukshetra,Scarcity
+Jharkhand,Ranchi,Scarcity 
+Karnataka,Bagalkot,Scarcity 
+Jammu and Kashmir,Pulwama,Scarcity 
+Uttar Pradesh,Shravasti,Scarcity 
+West Bengal,Jhargram,Scarcity 
+Haryana,Yamuna Nagar,Scarcity 
+,,
+"Copyright © 2024, NITI Aayog",,
+https://iced.niti.gov.in,,
+"The information on this platform is mainly taken from official sources. However, in some cases, a few assumptions have been made and some data derived or assumed and is given in the detailed. While we believe that the data is reliable and adequately comprehensive, NITI Aayog ICED does not take guarantee that such information is in all respects accurate. NITI Aayog ICED does not accept any liability for any consequences resulting from the use of this data.sss",,
