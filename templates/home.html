@@ -1,0 +1,129 @@
+{% load static %}
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% trans "Home Page" %}</title>
+    <!-- Link to Tailwind CSS -->
+    <link href="{% static 'css/output.css' %}" rel="stylesheet">
+    <style>
+        /* Add background image */
+        .background-hero {
+            background-image: url("{% static 'images/yuriy-kovalev-nN1HSDtKdlw-unsplash.jpg' %}");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        
+        /* Center all content */
+        .content-wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        /* Adjust navbar */
+        .navbar {
+            width: 100%;
+            background-color: rgba(135, 206, 235, 0.8); /* Semi-transparent sky blue */
+        }
+        
+        /* Center hero content */
+        .hero-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 90vh;
+            text-align: center;
+            padding: 2rem;
+            background-color: rgba(0, 0, 0, 0.6); /* Darker overlay for better text visibility */
+        }
+        
+        /* Enhance main title */
+        .main-title {
+            font-size: 4rem;
+            font-weight: 800;
+            color: #ffffff; /* White */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+            max-width: 80%;
+        }
+        
+        /* Enhance subtitle */
+        .subtitle {
+            font-size: 1.8rem;
+            font-weight: 600;
+            color: #ffffff; /* White */
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+            margin-bottom: 2rem;
+            line-height: 1.4;
+            max-width: 80%;
+        }
+        
+        /* Center features */
+        .features-wrapper {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body class="background-hero">
+    <div class="content-wrapper">
+        <!-- Navbar -->
+        <nav class="navbar text-white p-4">
+            <div class="container mx-auto flex justify-end">
+                <ul class="flex space-x-4">
+                    <li><a href="{% url 'home' %}" class="hover:text-gray-700 transition duration-300 py-2 px-4 rounded-md hover:bg-gray-200">{% trans "Home" %}</a></li>
+                    <li><a href="{% url 'visualization:visualization_page' %}" class="hover:text-gray-700 transition duration-300">{% trans "Data Visualization" %}</a></li>
+                    <li><a href="https://indiawris.gov.in/wris/#/" target="_blank" class="hover:text-gray-700 transition duration-300 py-2 px-4 rounded-md hover:bg-gray-200">{% trans "Resources" %}</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <!-- Hero Section -->
+        <div class="hero-content w-full">
+            <h1 class="main-title">{% trans "Welcome to HydroScope" %}</h1>
+            <p class="subtitle">{% trans "Your guide to understanding the water footprint of everyday products and saving water in the process." %}</p>
+            <a href="{% url 'app1:water_footprint' %}" class="bg-sky-400 hover:bg-sky-500 text-white px-12 py-6 rounded-md text-2xl font-bold transition duration-300 ease-in-out transform hover:scale-105">{% trans "Calculate Now!" %}</a>
+        </div>
+
+        <!-- Features Section -->
+        <div class="w-full bg-white py-12">
+            <h2 class="text-3xl font-bold text-center text-indigo-700 mb-6">{% trans "Our Features" %}</h2>
+            <div class="features-wrapper">
+                <div class="w-full md:w-1/2 xl:w-1/3 p-6">
+                    <div class="bg-white rounded shadow-md p-6">
+                        <h3 class="text-lg font-bold text-indigo-700 mb-2">{% trans "Water Footprint Calculator" %}</h3>
+                        <p class="text-gray-600">{% trans "Calculate the water footprint of your daily products and activities." %}</p>
+                    </div>
+                </div>
+                <div class="w-full md:w-1/2 xl:w-1/3 p-6">
+                    <div class="bg-white rounded shadow-md p-6">
+                        <h3 class="text-lg font-bold text-indigo-700 mb-2">{% trans "Drought Prediction and Analysis" %}</h3>
+                        <p class="text-gray-600">{% trans "Predict if your region is prone to droughts!" %}</p>
+                    </div>
+                </div>
+                <div class="w-full md:w-1/2 xl:w-1/3 p-6">
+                    <div class="bg-white rounded shadow-md p-6">
+                        <h3 class="text-lg font-bold text-indigo-700 mb-2">{% trans "Water Scarcity Mapping" %}</h3>
+                        <p class="text-gray-600">{% trans "Visualize real-time water-stressed regions near you." %}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Call to Action Section -->
+        <div class="bg-indigo-600 text-white py-12 w-full text-center">
+            <a href="{% url 'app1:water_footprint' %}" class="bg-yellow-400 hover:bg-yellow-500 text-indigo-700 px-12 py-6 rounded-md text-2xl font-bold transition duration-300 ease-in-out transform hover:scale-105">{% trans "Start Calculating Your Water Footprint" %}</a>
+        </div>
+    </div>
+</body>
+</html>
