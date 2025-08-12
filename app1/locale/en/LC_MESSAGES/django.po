@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-30 10:52+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"  # Set the language to English
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\app1\templates\footprint.html:9 .\app1\templates\footprint.html:116
+#: .\app1\views.py:18 .\templates\home.html:104
+msgid "Water Footprint Calculator"
+msgstr "Water Footprint Calculator"  # Translation remains the same
+
+#: .\app1\templates\footprint.html:87 .\templates\home.html:84
+msgid "Home"
+msgstr "Home"  # Translation remains the same
+
+#: .\app1\templates\footprint.html:88 .\templates\home.html:85
+msgid "Data Visualization"
+msgstr "Data Visualization"  # Translation remains the same
+
+#: .\app1\templates\footprint.html:89 .\templates\home.html:86
+msgid "Resources"
+msgstr "Resources"  # Translation remains the same
+
+#: .\app1\templates\footprint.html:120
+msgid "Enter product name"
+msgstr "Enter product name"  # Translation remains the same
+
+#: .\app1\templates\footprint.html:124
+msgid "Search"
+msgstr "Search"  # Translation remains the same
+
+#: .\app1\templates\footprint.html:135
+msgid "The water footprint of"
+msgstr "The water footprint of"  # Translation remains the same
+
+#: .\app1\templates\footprint.html:135
+msgid "is"
+msgstr "is"  # Translation remains the same
+
+#: .\app1\templates\footprint.html:135
+msgid "liters."
+msgstr "liters."  # Translation remains the same
+
+#: .\app1\templates\footprint.html:139
+msgid "Please enter a product name to get the water footprint."
+msgstr "Please enter a product name to get the water footprint."  # Translation remains the same
+
+#: .\app1\views.py:19
+msgid "No product found. Please try another name."
+msgstr "No product found. Please try another name."  # Translation remains the same
+
+#: .\hydro\settings.py:116
+msgid "English"
+msgstr "English"  # Translation remains the same
+
+#: .\hydro\settings.py:117
+msgid "Hindi"
+msgstr "Hindi"  # Translation remains the same
+
+#: .\hydro\settings.py:118
+msgid "Tamil"
+msgstr "Tamil"  # Translation remains the same
+
+#: .\hydro\settings.py:119
+msgid "Bengali"
+msgstr "Bengali"  # Translation remains the same
+
+#: .\hydro\settings.py:120
+msgid "Telugu"
+msgstr "Telugu"  # Translation remains the same
+
+#: .\hydro\settings.py:121
+msgid "Malayalam"
+msgstr "Malayalam"  # Translation remains the same
+
+#: .\hydro\settings.py:122
+msgid "Marathi"
+msgstr "Marathi"  # Translation remains the same
+
+#: .\hydro\settings.py:123
+msgid "Gujarati"
+msgstr "Gujarati"  # Translation remains the same
+
+#: .\hydro\settings.py:124
+msgid "Punjabi"
+msgstr "Punjabi"  # Translation remains the same
+
+#: .\hydro\settings.py:125
+msgid "Kannada"
+msgstr "Kannada"  # Translation remains the same
+
+#: .\templates\home.html:8
+msgid "Home Page"
+msgstr "Home Page"  # Translation remains the same
+
+#: .\templates\home.html:93
+msgid "Welcome to HydroScope"
+msgstr "Welcome to HydroScope"  # Translation remains the same
+
+#: .\templates\home.html:94
+msgid ""
+"Your guide to understanding the water footprint of everyday products and "
+"saving water in the process."
+msgstr ""
+"Your guide to understanding the water footprint of everyday products and "
+"saving water in the process."  # Translation remains the same
+
+#: .\templates\home.html:95
+msgid "Calculate Now!"
+msgstr "Calculate Now!"  # Translation remains the same
+
+#: .\templates\home.html:100
+msgid "Our Features"
+msgstr "Our Features"  # Translation remains the same
+
+#: .\templates\home.html:105
+msgid "Calculate the water footprint of your daily products and activities."
+msgstr "Calculate the water footprint of your daily products and activities."  # Translation remains the same
+
+#: .\templates\home.html:110
+msgid "Drought Prediction and Analysis"
+msgstr "Drought Prediction and Analysis"  # Translation remains the same
+
+#: .\templates\home.html:111
+msgid "Predict if your region is prone to droughts!"
+msgstr "Predict if your region is prone to droughts!"  # Translation remains the same
+
+#: .\templates\home.html:116
+msgid "Water Scarcity Mapping"
+msgstr "Water Scarcity Mapping"  # Translation remains the same
+
+#: .\templates\home.html:117
+msgid "Visualize real-time water-stressed regions near you."
+msgstr "Visualize real-time water-stressed regions near you."  # Translation remains the same
+
+#: .\templates\home.html:125
+msgid "Start Calculating Your Water Footprint"
+msgstr "Start Calculating Your Water Footprint"  # Translation remains the same

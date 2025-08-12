@@ -1,0 +1,145 @@
+{% load static %}
+{% load i18n %}  <!-- Load translation tags -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% trans "Water Footprint Calculator" %}</title>  <!-- Use translation tag for the title -->
+    <!-- Link to Tailwind CSS -->
+    <link href="{% static 'css/output.css' %}" rel="stylesheet">
+    <style>
+        /* Additional styles for navigation bar */
+        .navbar {
+            background-color: #4f46e5; /* Indigo */
+            padding: 1rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .navbar ul {
+            display: flex;
+            justify-content: flex-end; /* Align items to the right */
+            align-items: center;
+            gap: 2rem;
+            list-style-type: none;
+        }
+
+        .navbar a {
+            padding: 0.5rem 1rem;
+            border-radius: 0.375rem; /* Rounded corners */
+            font-size: 1rem;
+            font-weight: 500;
+            color: white;
+            text-decoration: none;
+            transition: background-color 0.3s ease, transform 0.2s;
+        }
+
+        .navbar a:hover {
+            background-color: #6366f1; /* Lighter indigo on hover */
+            transform: translateY(-2px); /* Slight hover effect */
+        }
+
+        .navbar a:active {
+            transform: translateY(0); /* Reset the effect when clicked */
+        }
+
+        /* Background image for the body */
+        body {
+            background-image: url("{% static 'images/yuriy-kovalev-nN1HSDtKdlw-unsplash.jpg' %}");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Center the content */
+        .content-wrapper {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 2rem;
+        }
+
+        /* Style for the result display */
+        .result-box {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 1.5rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+            font-size: 1.25rem;
+            color: #1f2937;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="container mx-auto">
+            <ul>
+                <li><a href="{% url 'home' %}" class="hover:text-indigo-200 transition duration-300">{% trans "Home" %}</a></li>
+                <li><a href="{% url 'visualization:visualization_page' %}" class="hover:text-indigo-200 transition duration-300">{% trans "Data Visualization" %}</a></li>
+                <li><a href="https://indiawris.gov.in/wris/#/" target="_blank" class="hover:text-indigo-200 transition duration-300">{% trans "Resources" %}</a></li>
+                
+                <!-- Language Selection Form -->
+                <li>
+                    <form method="post" action="{% url 'set_language' %}">
+                        {% csrf_token %}
+                        <select name="language" onchange="this.form.submit()">
+                            <option value="en" {% if LANGUAGE_CODE == 'en' %}selected{% endif %}>English</option>
+                            <option value="hi" {% if LANGUAGE_CODE == 'hi' %}selected{% endif %}>Hindi</option>
+                            <option value="ta" {% if LANGUAGE_CODE == 'ta' %}selected{% endif %}>Tamil</option>
+                            <option value="bn" {% if LANGUAGE_CODE == 'bn' %}selected{% endif %}>Bengali</option>
+                            <option value="te" {% if LANGUAGE_CODE == 'te' %}selected{% endif %}>Telugu</option>
+                            <option value="mr" {% if LANGUAGE_CODE == 'mr' %}selected{% endif %}>Marathi</option>
+                            <option value="gu" {% if LANGUAGE_CODE == 'gu' %}selected{% endif %}>Gujarati</option>
+                            <option value="kn" {% if LANGUAGE_CODE == 'kn' %}selected{% endif %}>Kannada</option>
+                            <option value="ml" {% if LANGUAGE_CODE == 'ml' %}selected{% endif %}>Malayalam</option>
+                            <option value="or" {% if LANGUAGE_CODE == 'or' %}selected{% endif %}>Odia</option>
+                        </select>
+                    </form>
+                    
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main content with background image -->
+    <div class="content-wrapper">
+        <h1 class="text-3xl font-bold text-center text-white mb-6">{% trans "Water Footprint Calculator" %}</h1>
+        
+        <form method="GET" action="" class="w-full max-w-md mb-6 relative">
+            <div class="relative">
+                <input type="text" id="product-search" name="product_name" placeholder="{% trans 'Enter product name' %}"
+                       class="block w-full px-4 py-3 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 sm:text-md">
+                <button type="submit"
+                        class="absolute inset-y-0 right-0 px-4 py-2 bg-indigo-600 text-white font-semibold rounded-r-md hover:bg-indigo-700 transition duration-200 ease-in-out">
+                    {% trans "Search" %}  <!-- Use translation tag for the button -->
+                </button>
+            </div>
+            <!-- Suggestions Box -->
+            <div id="suggestions" class="absolute z-10 bg-white border border-gray-300 rounded-md mt-1 w-full hidden max-h-48 overflow-y-auto"></div>
+        </form>
+        
+        <!-- Display Result -->
+        <div class="result-box">
+            {% if product %}
+                <p class="text-lg font-medium">
+                    {% trans "The water footprint of" %} {{ product.name }} {% trans "is" %} {{ product.water_footprint }} {% trans "liters." %}
+                </p>
+            {% else %}
+                <p class="text-lg font-medium">
+                    {% trans "Please enter a product name to get the water footprint." %}
+                </p>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
